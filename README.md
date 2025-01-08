@@ -1,2 +1,2 @@
-# myrepo-1
+# Myproject-Demo
 This is my first Github Repository
